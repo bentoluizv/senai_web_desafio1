@@ -1,0 +1,266 @@
+[
+  {
+    "placa": "ABC-1234",
+    "proprietario": "João Silva",
+    "apartamento": "101",
+    "bloco": "A",
+    "modelo": "Honda Civic",
+    "cor": "Preto"
+  },
+  {
+    "placa": "XYZ-9876",
+    "proprietario": "Maria Souza",
+    "apartamento": "202",
+    "bloco": "B",
+    "modelo": "Toyota Corolla",
+    "cor": "Branco"
+  },
+  {
+    "placa": "DEF-5678",
+    "proprietario": "Pedro Oliveira",
+    "apartamento": "303",
+    "bloco": "C",
+    "modelo": "Ford Focus",
+    "cor": "Prata"
+  },
+  {
+    "placa": "GHI-2468",
+    "proprietario": "Ana Costa",
+    "apartamento": "404",
+    "bloco": "D",
+    "modelo": "Chevrolet Onix",
+    "cor": "Vermelho"
+  },
+  {
+    "placa": "JKL-1357",
+    "proprietario": "Carlos Pereira",
+    "apartamento": "505",
+    "bloco": "E",
+    "modelo": "Volkswagen Gol",
+    "cor": "Azul"
+  },
+  {
+    "placa": "MNO-7890",
+    "proprietario": "Fernanda Lima",
+    "apartamento": "606",
+    "bloco": "A",
+    "modelo": "Hyundai HB20",
+    "cor": "Cinza"
+  },
+  {
+    "placa": "PQR-4321",
+    "proprietario": "Lucas Santos",
+    "apartamento": "707",
+    "bloco": "B",
+    "modelo": "Renault Sandero",
+    "cor": "Verde"
+  },
+  {
+    "placa": "STU-6789",
+    "proprietario": "Juliana Almeida",
+    "apartamento": "808",
+    "bloco": "C",
+    "modelo": "Fiat Uno",
+    "cor": "Amarelo"
+  },
+  {
+    "placa": "VWX-5678",
+    "proprietario": "Marcelo Ribeiro",
+    "apartamento": "909",
+    "bloco": "D",
+    "modelo": "Nissan Versa",
+    "cor": "Preto"
+  },
+  {
+    "placa": "YZA-3456",
+    "proprietario": "Paula Carvalho",
+    "apartamento": "110",
+    "bloco": "E",
+    "modelo": "Jeep Renegade",
+    "cor": "Branco"
+  },
+  {
+    "placa": "BCD-2345",
+    "proprietario": "Rafael Barbosa",
+    "apartamento": "111",
+    "bloco": "A",
+    "modelo": "Honda Fit",
+    "cor": "Prata"
+  },
+  {
+    "placa": "EFG-3456",
+    "proprietario": "Beatriz Silva",
+    "apartamento": "112",
+    "bloco": "B",
+    "modelo": "Volkswagen Polo",
+    "cor": "Vermelho"
+  },
+  {
+    "placa": "HIJ-4567",
+    "proprietario": "Rodrigo Teixeira",
+    "apartamento": "113",
+    "bloco": "C",
+    "modelo": "Chevrolet Cruze",
+    "cor": "Azul"
+  },
+  {
+    "placa": "KLM-5678",
+    "proprietario": "Camila Rocha",
+    "apartamento": "114",
+    "bloco": "D",
+    "modelo": "Toyota Yaris",
+    "cor": "Cinza"
+  },
+  {
+    "placa": "NOP-6789",
+    "proprietario": "Eduardo Vieira",
+    "apartamento": "115",
+    "bloco": "E",
+    "modelo": "Ford Ka",
+    "cor": "Preto"
+  },
+  {
+    "placa": "QRS-7890",
+    "proprietario": "Daniela Gomes",
+    "apartamento": "116",
+    "bloco": "A",
+    "modelo": "Hyundai Tucson",
+    "cor": "Branco"
+  },
+  {
+    "placa": "TUV-8901",
+    "proprietario": "Bruno Fernandes",
+    "apartamento": "117",
+    "bloco": "B",
+    "modelo": "Renault Logan",
+    "cor": "Prata"
+  },
+  {
+    "placa": "WXY-9012",
+    "proprietario": "Isabela Martins",
+    "apartamento": "118",
+    "bloco": "C",
+    "modelo": "Fiat Argo",
+    "cor": "Vermelho"
+  },
+  {
+    "placa": "ZAB-0123",
+    "proprietario": "Thiago Oliveira",
+    "apartamento": "119",
+    "bloco": "D",
+    "modelo": "Volkswagen Jetta",
+    "cor": "Azul"
+  },
+  {
+    "placa": "CDE-1234",
+    "proprietario": "Larissa Freitas",
+    "apartamento": "120",
+    "bloco": "E",
+    "modelo": "Chevrolet Tracker",
+    "cor": "Cinza"
+  },
+  {
+    "placa": "FGH-2345",
+    "proprietario": "Vinícius Moreira",
+    "apartamento": "121",
+    "bloco": "A",
+    "modelo": "Honda HR-V",
+    "cor": "Preto"
+  },
+  {
+    "placa": "IJK-3456",
+    "proprietario": "Clara Mendes",
+    "apartamento": "122",
+    "bloco": "B",
+    "modelo": "Toyota Hilux",
+    "cor": "Branco"
+  },
+  {
+    "placa": "LMN-4567",
+    "proprietario": "Rafael Cardoso",
+    "apartamento": "123",
+    "bloco": "C",
+    "modelo": "Ford Ranger",
+    "cor": "Prata"
+  },
+  {
+    "placa": "OPQ-5678",
+    "proprietario": "Vanessa Duarte",
+    "apartamento": "124",
+    "bloco": "D",
+    "modelo": "Hyundai Creta",
+    "cor": "Vermelho"
+  },
+  {
+    "placa": "RST-6789",
+    "proprietario": "Gustavo Pires",
+    "apartamento": "125",
+    "bloco": "E",
+    "modelo": "Jeep Compass",
+    "cor": "Azul"
+  },
+  {
+    "placa": "UVW-7890",
+    "proprietario": "Bruna Neves",
+    "apartamento": "126",
+    "bloco": "A",
+    "modelo": "Nissan Kicks",
+    "cor": "Cinza"
+  },
+  {
+    "placa": "XYZ-8901",
+    "proprietario": "Ricardo Lima",
+    "apartamento": "127",
+    "bloco": "B",
+    "modelo": "Chevrolet S10",
+    "cor": "Preto"
+  },
+  {
+    "placa": "ABC-9012",
+    "proprietario": "Sofia Andrade",
+    "apartamento": "128",
+    "bloco": "C",
+    "modelo": "Toyota Etios",
+    "cor": "Branco"
+  },
+  {
+    "placa": "DEF-0123",
+    "proprietario": "Diego Azevedo",
+    "apartamento": "129",
+    "bloco": "D",
+    "modelo": "Fiat Mobi",
+    "cor": "Prata"
+  },
+  {
+    "placa": "GHI-1234",
+    "proprietario": "Helena Costa",
+    "apartamento": "130",
+    "bloco": "E",
+    "modelo": "Volkswagen Voyage",
+    "cor": "Vermelho"
+  },
+  {
+    "placa": "JKL-2345",
+    "proprietario": "Felipe Barros",
+    "apartamento": "131",
+    "bloco": "A",
+    "modelo": "Renault Duster",
+    "cor": "Azul"
+  },
+  {
+    "placa": "MNO-3456",
+    "proprietario": "Aline Castro",
+    "apartamento": "132",
+    "bloco": "B",
+    "modelo": "Honda Civic",
+    "cor": "Cinza"
+  },
+  {
+    "placa": "PQR-4567",
+    "proprietario": "Gabriel Nunes",
+    "apartamento": "133",
+    "bloco": "C",
+    "modelo": "Chevrolet Onix",
+    "cor": "Preto"
+  }
+]
