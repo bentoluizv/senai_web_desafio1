@@ -5,7 +5,8 @@
     "apartamento": "101",
     "bloco": "A",
     "modelo": "Honda Civic",
-    "cor": "Preto"
+    "cor": "Preto",
+    "vaga": 1
   },
   {
     "placa": "XYZ-9876",
@@ -13,7 +14,8 @@
     "apartamento": "202",
     "bloco": "B",
     "modelo": "Toyota Corolla",
-    "cor": "Branco"
+    "cor": "Branco",
+    "vaga": 2
   },
   {
     "placa": "DEF-5678",
@@ -21,7 +23,8 @@
     "apartamento": "303",
     "bloco": "C",
     "modelo": "Ford Focus",
-    "cor": "Prata"
+    "cor": "Prata",
+    "vaga": 3
   },
   {
     "placa": "GHI-2468",
@@ -29,7 +32,8 @@
     "apartamento": "404",
     "bloco": "D",
     "modelo": "Chevrolet Onix",
-    "cor": "Vermelho"
+    "cor": "Vermelho",
+    "vaga": 4
   },
   {
     "placa": "JKL-1357",
@@ -37,7 +41,8 @@
     "apartamento": "505",
     "bloco": "E",
     "modelo": "Volkswagen Gol",
-    "cor": "Azul"
+    "cor": "Azul",
+    "vaga": 5
   },
   {
     "placa": "MNO-7890",
@@ -45,7 +50,8 @@
     "apartamento": "606",
     "bloco": "A",
     "modelo": "Hyundai HB20",
-    "cor": "Cinza"
+    "cor": "Cinza",
+    "vaga": 6
   },
   {
     "placa": "PQR-4321",
@@ -53,7 +59,8 @@
     "apartamento": "707",
     "bloco": "B",
     "modelo": "Renault Sandero",
-    "cor": "Verde"
+    "cor": "Verde",
+    "vaga": 7
   },
   {
     "placa": "STU-6789",
@@ -61,7 +68,8 @@
     "apartamento": "808",
     "bloco": "C",
     "modelo": "Fiat Uno",
-    "cor": "Amarelo"
+    "cor": "Amarelo",
+    "vaga": 8
   },
   {
     "placa": "VWX-5678",
@@ -69,7 +77,8 @@
     "apartamento": "909",
     "bloco": "D",
     "modelo": "Nissan Versa",
-    "cor": "Preto"
+    "cor": "Preto",
+    "vaga": 9
   },
   {
     "placa": "YZA-3456",
@@ -77,7 +86,8 @@
     "apartamento": "110",
     "bloco": "E",
     "modelo": "Jeep Renegade",
-    "cor": "Branco"
+    "cor": "Branco",
+    "vaga": 10
   },
   {
     "placa": "BCD-2345",
@@ -85,7 +95,8 @@
     "apartamento": "111",
     "bloco": "A",
     "modelo": "Honda Fit",
-    "cor": "Prata"
+    "cor": "Prata",
+    "vaga": 11
   },
   {
     "placa": "EFG-3456",
@@ -93,7 +104,8 @@
     "apartamento": "112",
     "bloco": "B",
     "modelo": "Volkswagen Polo",
-    "cor": "Vermelho"
+    "cor": "Vermelho",
+    "vaga": 12
   },
   {
     "placa": "HIJ-4567",
@@ -101,7 +113,8 @@
     "apartamento": "113",
     "bloco": "C",
     "modelo": "Chevrolet Cruze",
-    "cor": "Azul"
+    "cor": "Azul",
+    "vaga": 13
   },
   {
     "placa": "KLM-5678",
@@ -109,7 +122,8 @@
     "apartamento": "114",
     "bloco": "D",
     "modelo": "Toyota Yaris",
-    "cor": "Cinza"
+    "cor": "Cinza",
+    "vaga": 14
   },
   {
     "placa": "NOP-6789",
@@ -117,7 +131,8 @@
     "apartamento": "115",
     "bloco": "E",
     "modelo": "Ford Ka",
-    "cor": "Preto"
+    "cor": "Preto",
+    "vaga": 15
   },
   {
     "placa": "QRS-7890",
@@ -125,7 +140,8 @@
     "apartamento": "116",
     "bloco": "A",
     "modelo": "Hyundai Tucson",
-    "cor": "Branco"
+    "cor": "Branco",
+    "vaga": 16
   },
   {
     "placa": "TUV-8901",
@@ -133,7 +149,8 @@
     "apartamento": "117",
     "bloco": "B",
     "modelo": "Renault Logan",
-    "cor": "Prata"
+    "cor": "Prata",
+    "vaga": 17
   },
   {
     "placa": "WXY-9012",
@@ -141,7 +158,8 @@
     "apartamento": "118",
     "bloco": "C",
     "modelo": "Fiat Argo",
-    "cor": "Vermelho"
+    "cor": "Vermelho",
+    "vaga": 18
   },
   {
     "placa": "ZAB-0123",
@@ -149,7 +167,8 @@
     "apartamento": "119",
     "bloco": "D",
     "modelo": "Volkswagen Jetta",
-    "cor": "Azul"
+    "cor": "Azul",
+    "vaga": 19
   },
   {
     "placa": "CDE-1234",
@@ -157,7 +176,8 @@
     "apartamento": "120",
     "bloco": "E",
     "modelo": "Chevrolet Tracker",
-    "cor": "Cinza"
+    "cor": "Cinza",
+    "vaga": 20
   },
   {
     "placa": "FGH-2345",
@@ -165,7 +185,8 @@
     "apartamento": "121",
     "bloco": "A",
     "modelo": "Honda HR-V",
-    "cor": "Preto"
+    "cor": "Preto",
+    "vaga": 21
   },
   {
     "placa": "IJK-3456",
@@ -173,7 +194,8 @@
     "apartamento": "122",
     "bloco": "B",
     "modelo": "Toyota Hilux",
-    "cor": "Branco"
+    "cor": "Branco",
+    "vaga": 22
   },
   {
     "placa": "LMN-4567",
@@ -181,7 +203,8 @@
     "apartamento": "123",
     "bloco": "C",
     "modelo": "Ford Ranger",
-    "cor": "Prata"
+    "cor": "Prata",
+    "vaga": 23
   },
   {
     "placa": "OPQ-5678",
@@ -189,7 +212,8 @@
     "apartamento": "124",
     "bloco": "D",
     "modelo": "Hyundai Creta",
-    "cor": "Vermelho"
+    "cor": "Vermelho",
+    "vaga": 24
   },
   {
     "placa": "RST-6789",
@@ -197,7 +221,8 @@
     "apartamento": "125",
     "bloco": "E",
     "modelo": "Jeep Compass",
-    "cor": "Azul"
+    "cor": "Azul",
+    "vaga": 25
   },
   {
     "placa": "UVW-7890",
@@ -205,7 +230,8 @@
     "apartamento": "126",
     "bloco": "A",
     "modelo": "Nissan Kicks",
-    "cor": "Cinza"
+    "cor": "Cinza",
+    "vaga": 26
   },
   {
     "placa": "XYZ-8901",
@@ -213,7 +239,8 @@
     "apartamento": "127",
     "bloco": "B",
     "modelo": "Chevrolet S10",
-    "cor": "Preto"
+    "cor": "Preto",
+    "vaga": 27
   },
   {
     "placa": "ABC-9012",
@@ -221,7 +248,8 @@
     "apartamento": "128",
     "bloco": "C",
     "modelo": "Toyota Etios",
-    "cor": "Branco"
+    "cor": "Branco",
+    "vaga": 28
   },
   {
     "placa": "DEF-0123",
@@ -229,7 +257,8 @@
     "apartamento": "129",
     "bloco": "D",
     "modelo": "Fiat Mobi",
-    "cor": "Prata"
+    "cor": "Prata",
+    "vaga": 29
   },
   {
     "placa": "GHI-1234",
@@ -237,30 +266,7 @@
     "apartamento": "130",
     "bloco": "E",
     "modelo": "Volkswagen Voyage",
-    "cor": "Vermelho"
-  },
-  {
-    "placa": "JKL-2345",
-    "proprietario": "Felipe Barros",
-    "apartamento": "131",
-    "bloco": "A",
-    "modelo": "Renault Duster",
-    "cor": "Azul"
-  },
-  {
-    "placa": "MNO-3456",
-    "proprietario": "Aline Castro",
-    "apartamento": "132",
-    "bloco": "B",
-    "modelo": "Honda Civic",
-    "cor": "Cinza"
-  },
-  {
-    "placa": "PQR-4567",
-    "proprietario": "Gabriel Nunes",
-    "apartamento": "133",
-    "bloco": "C",
-    "modelo": "Chevrolet Onix",
-    "cor": "Preto"
+    "cor": "Vermelho",
+    "vaga": 30
   }
 ]

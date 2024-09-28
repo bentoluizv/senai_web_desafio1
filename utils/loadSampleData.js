@@ -16,7 +16,8 @@ export default async function loadSampleData() {
             reserva.apartamento,
             reserva.bloco,
             reserva.modelo,
-            reserva.cor
+            reserva.cor,
+            reserva.vaga
           )
       );
       window.localStorage.setItem("reservas", JSON.stringify(reservas));
