@@ -2,9 +2,10 @@ export class ReservaView {
   constructor(reservaController) {
     this.controller = reservaController;
   }
-  listar() {
+
+  list() {
     const listagem = document.getElementById("listagem");
-    const reservas = this.controller.listar();
+    const reservas = this.controller.list();
 
     for (let index = 0; index < reservas.length; index++) {
       const reserva = reservas[index];
@@ -60,7 +61,7 @@ export class ReservaView {
     }
   }
 
-  registrar() {
+  register() {
     const form = document.getElementById("register-form");
 
     form.addEventListener("submit", (event) => {
@@ -75,18 +76,24 @@ export class ReservaView {
         cor: formData.get("veiculo-cor"),
       };
 
-      this.controller.fazerReserva(data);
+      this.controller.register(data);
       window.location.href = `/index.html`;
     });
   }
 
-  deletar() {
+  delete() {
     const buttons = document.getElementsByClassName("card-close-btn");
     Array.from(buttons).forEach((closeBtn) => {
       closeBtn.addEventListener("click", (event) => {
         const elementUUID = event.target.parentNode.parentNode.id;
-        this.controller.excluir(elementUUID);
-        window.location.href = `/index.html`;
+        if (
+          confirm(
+            "Tem certeza de que deseja excluir este registro? Esta ação é irreversível e não poderá ser desfeita."
+          )
+        ) {
+          this.controller.delete(elementUUID);
+          window.location.href = `/index.html`;
+        }
       });
     });
   }

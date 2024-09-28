@@ -4,7 +4,7 @@ export class ReservaController {
   constructor(reservaModel) {
     this.model = reservaModel;
   }
-  fazerReserva(data) {
+  register(data) {
     const properties = [
       "placa",
       "proprietario",
@@ -28,12 +28,12 @@ export class ReservaController {
     this.model.register(reserva);
   }
 
-  listar() {
+  list() {
     const data = this.model.list();
     return data;
   }
 
-  excluir(uuid) {
+  delete(uuid) {
     this.model.delete(uuid);
   }
 }

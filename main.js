@@ -9,10 +9,10 @@ const reservaController = new ReservaController(reservaModel);
 const reservaView = new ReservaView(reservaController);
 
 if (window.location.pathname === "/index.html") {
-  reservaView.listar();
-  reservaView.deletar();
+  reservaView.list();
+  reservaView.delete();
 }
 
 if (window.location.pathname === "/cadastro.html") {
-  reservaView.registrar();
+  reservaView.register();
 }
