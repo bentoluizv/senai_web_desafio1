@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Gerenciador de Vagas de Estacionamento</title>
+</head>
+
+<body class="bg-slate-100 font-mono">
+    <div class="p-4 container mx-auto flex flex-col min-h-screen mb-[-10px]">
+        <header class="flex flex-col md:flex-row justify-between gap-4 p-4">
+            <a href="./index.html">
+                <h2 class="text-3xl text-center">
+                    Gerenciador de Vagas de Estacionamento
+                </h2>
+            </a>
+            <nav class="text-sm flex flex-col">
+                <a class="bg-blue-500 text-white text-lg py-4 px-8 md:py-2 md:px-4 rounded hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 text-center"
+                    href="./cadastro.html">Nova Reserva</a>
+            </nav>
+        </header>
+        <main class="flex-grow mb[-20px]">
+            <div class="flex flex-col mb-4 mt-6 md:mt-16">
+                <h1 class="font-bold text-2xl text-center underline decoration-indigo-500 underline-offset-8">
+                    Faça sua reserva:
+                </h1>
+            </div>
+            <form id="register-form" class="flex flex-col">
+                <div class="flex flex-col mt-4 gap-4 md:grid md:grid-cols-2 lg:grid-cols-3 ">
+                    <div class="flex flex-col">
+                        <label for="proprietario-nome">Proprietario</label>
+                        <input
+                            class="border border-gray-300 rounded py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                            type="text" name="proprietario-nome" id="proprietario-nome" required>
+                    </div>
+                    <div class="flex flex-col">
+                        <label for="proprietario-ap">Apartamento</label>
+                        <input
+                            class="border border-gray-300 rounded py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                            type="text" name="proprietario-ap" id="proprietario-ap" required>
+                    </div>
+                    <div class="flex flex-col">
+                        <label for="proprietario-bl">Bloco</label>
+                        <input
+                            class="border border-gray-300 rounded py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                            type="text" name="proprietario-bl" id="proprietario-bl" required>
+                    </div>
+                    <div class="flex flex-col">
+                        <label for="veiculo-placa">Placa</label>
+                        <input
+                            class="border border-gray-300 rounded py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                            type="text" name="veiculo-placa" id="veiculo-placa" required>
+                    </div>
+                    <div class="flex flex-col">
+                        <label for="veiculo-modelo">Modelo</label>
+                        <input
+                            class="border border-gray-300 rounded py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                            type="text" name="veiculo-modelo" id="veiculo-modelo" required>
+                    </div>
+                    <div class="flex flex-col">
+                        <label for="veiculo-cor">Cor</label>
+                        <input
+                            class="border border-gray-300 rounded py-2 px-4 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                            type="text" name="veiculo-cor" id="veiculo-cor" required>
+                    </div>
+                </div>
+                <div class="flex mt-8 mb-4 lg:mt-16 justify-end">
+                    <button id="btn-submit"
+                        class="font-bold text-xl bg-green-500 text-white font-bold py-2 px-4 rounded hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 w-full lg:max-w-sm"
+                        type="submit">Registrar</button>
+                </div>
+            </form>
+        </main>
+    </div>
+    <footer class="flex flex-col bg-blue-600 text-gray-200 h-[60px] justify-center">
+        <p class="text-center">developed by @bentoluizv</p>
+    </footer>
+    <script type="module" src="main.js"></script>
+</body>
+
+</html>
