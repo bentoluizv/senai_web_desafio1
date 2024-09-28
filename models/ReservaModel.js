@@ -1,5 +1,6 @@
 export class Reserva {
   constructor(placa, proprietario, apartamento, bloco, modelo, cor) {
+    this.uuid = crypto.randomUUID();
     this.placa = placa;
     this.proprietario = proprietario;
     this.apartamento = apartamento;
