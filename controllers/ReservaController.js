@@ -32,4 +32,8 @@ export class ReservaController {
     const data = this.model.list();
     return data;
   }
+
+  excluir(uuid) {
+    this.model.delete(uuid);
+  }
 }

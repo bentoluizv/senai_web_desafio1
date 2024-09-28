@@ -27,6 +27,12 @@ export class ReservaModel {
     return this.reservas.reverse();
   }
 
+  delete(uuid) {
+    console.log(this.reservas);
+    this.reservas = this.reservas.filter((reserva) => reserva.uuid !== uuid);
+    this.#sendToStorage();
+  }
+
   #sendToStorage() {
     window.localStorage.setItem("reservas", JSON.stringify(this.reservas));
   }

@@ -79,4 +79,15 @@ export class ReservaView {
       window.location.href = `/index.html`;
     });
   }
+
+  deletar() {
+    const buttons = document.getElementsByClassName("card-close-btn");
+    Array.from(buttons).forEach((closeBtn) => {
+      closeBtn.addEventListener("click", (event) => {
+        const elementUUID = event.target.parentNode.parentNode.id;
+        this.controller.excluir(elementUUID);
+        window.location.href = `/index.html`;
+      });
+    });
+  }
 }
