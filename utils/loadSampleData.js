@@ -1,3 +1,5 @@
+import { Reserva } from "../models/ReservaModel";
+
 export default async function loadSampleData() {
   try {
     const data = await import("../models/sample.json", {
@@ -6,7 +8,18 @@ export default async function loadSampleData() {
     const previousData = window.localStorage.getItem("reservas");
 
     if (!previousData) {
-      window.localStorage.setItem("reservas", JSON.stringify(data.default));
+      const reservas = data.default.map(
+        (reserva) =>
+          new Reserva(
+            reserva.placa,
+            reserva.proprietario,
+            reserva.apartamento,
+            reserva.bloco,
+            reserva.modelo,
+            reserva.cor
+          )
+      );
+      window.localStorage.setItem("reservas", JSON.stringify(reservas));
     }
   } catch (err) {
     console.error("Error loading JSON:", err);
