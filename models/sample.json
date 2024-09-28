@@ -6,7 +6,7 @@
     "bloco": "A",
     "modelo": "Honda Civic",
     "cor": "Preto",
-    "vaga": 1
+    "vaga": "1"
   },
   {
     "placa": "XYZ-9876",
@@ -15,7 +15,7 @@
     "bloco": "B",
     "modelo": "Toyota Corolla",
     "cor": "Branco",
-    "vaga": 2
+    "vaga": "2"
   },
   {
     "placa": "DEF-5678",
@@ -24,7 +24,7 @@
     "bloco": "C",
     "modelo": "Ford Focus",
     "cor": "Prata",
-    "vaga": 3
+    "vaga": "3"
   },
   {
     "placa": "GHI-2468",
@@ -33,7 +33,7 @@
     "bloco": "D",
     "modelo": "Chevrolet Onix",
     "cor": "Vermelho",
-    "vaga": 4
+    "vaga": "4"
   },
   {
     "placa": "JKL-1357",
@@ -42,7 +42,7 @@
     "bloco": "E",
     "modelo": "Volkswagen Gol",
     "cor": "Azul",
-    "vaga": 5
+    "vaga": "5"
   },
   {
     "placa": "MNO-7890",
@@ -51,7 +51,7 @@
     "bloco": "A",
     "modelo": "Hyundai HB20",
     "cor": "Cinza",
-    "vaga": 6
+    "vaga": "6"
   },
   {
     "placa": "PQR-4321",
@@ -60,7 +60,7 @@
     "bloco": "B",
     "modelo": "Renault Sandero",
     "cor": "Verde",
-    "vaga": 7
+    "vaga": "7"
   },
   {
     "placa": "STU-6789",
@@ -69,7 +69,7 @@
     "bloco": "C",
     "modelo": "Fiat Uno",
     "cor": "Amarelo",
-    "vaga": 8
+    "vaga": "8"
   },
   {
     "placa": "VWX-5678",
@@ -78,7 +78,7 @@
     "bloco": "D",
     "modelo": "Nissan Versa",
     "cor": "Preto",
-    "vaga": 9
+    "vaga": "9"
   },
   {
     "placa": "YZA-3456",
@@ -87,7 +87,7 @@
     "bloco": "E",
     "modelo": "Jeep Renegade",
     "cor": "Branco",
-    "vaga": 10
+    "vaga": "10"
   },
   {
     "placa": "BCD-2345",
@@ -96,7 +96,7 @@
     "bloco": "A",
     "modelo": "Honda Fit",
     "cor": "Prata",
-    "vaga": 11
+    "vaga": "11"
   },
   {
     "placa": "EFG-3456",
@@ -105,7 +105,7 @@
     "bloco": "B",
     "modelo": "Volkswagen Polo",
     "cor": "Vermelho",
-    "vaga": 12
+    "vaga": "12"
   },
   {
     "placa": "HIJ-4567",
@@ -114,7 +114,7 @@
     "bloco": "C",
     "modelo": "Chevrolet Cruze",
     "cor": "Azul",
-    "vaga": 13
+    "vaga": "13"
   },
   {
     "placa": "KLM-5678",
@@ -123,7 +123,7 @@
     "bloco": "D",
     "modelo": "Toyota Yaris",
     "cor": "Cinza",
-    "vaga": 14
+    "vaga": "14"
   },
   {
     "placa": "NOP-6789",
@@ -132,7 +132,7 @@
     "bloco": "E",
     "modelo": "Ford Ka",
     "cor": "Preto",
-    "vaga": 15
+    "vaga": "15"
   },
   {
     "placa": "QRS-7890",
@@ -141,7 +141,7 @@
     "bloco": "A",
     "modelo": "Hyundai Tucson",
     "cor": "Branco",
-    "vaga": 16
+    "vaga": "16"
   },
   {
     "placa": "TUV-8901",
@@ -150,7 +150,7 @@
     "bloco": "B",
     "modelo": "Renault Logan",
     "cor": "Prata",
-    "vaga": 17
+    "vaga": "17"
   },
   {
     "placa": "WXY-9012",
@@ -159,7 +159,7 @@
     "bloco": "C",
     "modelo": "Fiat Argo",
     "cor": "Vermelho",
-    "vaga": 18
+    "vaga": "18"
   },
   {
     "placa": "ZAB-0123",
@@ -168,7 +168,7 @@
     "bloco": "D",
     "modelo": "Volkswagen Jetta",
     "cor": "Azul",
-    "vaga": 19
+    "vaga": "19"
   },
   {
     "placa": "CDE-1234",
@@ -177,7 +177,7 @@
     "bloco": "E",
     "modelo": "Chevrolet Tracker",
     "cor": "Cinza",
-    "vaga": 20
+    "vaga": "20"
   },
   {
     "placa": "FGH-2345",
@@ -186,7 +186,7 @@
     "bloco": "A",
     "modelo": "Honda HR-V",
     "cor": "Preto",
-    "vaga": 21
+    "vaga": "21"
   },
   {
     "placa": "IJK-3456",
@@ -195,7 +195,7 @@
     "bloco": "B",
     "modelo": "Toyota Hilux",
     "cor": "Branco",
-    "vaga": 22
+    "vaga": "22"
   },
   {
     "placa": "LMN-4567",
@@ -204,7 +204,7 @@
     "bloco": "C",
     "modelo": "Ford Ranger",
     "cor": "Prata",
-    "vaga": 23
+    "vaga": "23"
   },
   {
     "placa": "OPQ-5678",
@@ -213,7 +213,7 @@
     "bloco": "D",
     "modelo": "Hyundai Creta",
     "cor": "Vermelho",
-    "vaga": 24
+    "vaga": "24"
   },
   {
     "placa": "RST-6789",
@@ -222,7 +222,7 @@
     "bloco": "E",
     "modelo": "Jeep Compass",
     "cor": "Azul",
-    "vaga": 25
+    "vaga": "25"
   },
   {
     "placa": "UVW-7890",
@@ -231,7 +231,7 @@
     "bloco": "A",
     "modelo": "Nissan Kicks",
     "cor": "Cinza",
-    "vaga": 26
+    "vaga": "26"
   },
   {
     "placa": "XYZ-8901",
@@ -240,7 +240,7 @@
     "bloco": "B",
     "modelo": "Chevrolet S10",
     "cor": "Preto",
-    "vaga": 27
+    "vaga": "27"
   },
   {
     "placa": "ABC-9012",
@@ -249,7 +249,7 @@
     "bloco": "C",
     "modelo": "Toyota Etios",
     "cor": "Branco",
-    "vaga": 28
+    "vaga": "28"
   },
   {
     "placa": "DEF-0123",
@@ -258,7 +258,7 @@
     "bloco": "D",
     "modelo": "Fiat Mobi",
     "cor": "Prata",
-    "vaga": 29
+    "vaga": "29"
   },
   {
     "placa": "GHI-1234",
@@ -267,6 +267,6 @@
     "bloco": "E",
     "modelo": "Volkswagen Voyage",
     "cor": "Vermelho",
-    "vaga": 30
+    "vaga": "30"
   }
 ]
