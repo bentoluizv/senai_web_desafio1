@@ -10,6 +10,7 @@ const reservaView = new ReservaView(reservaController);
 
 if (window.location.pathname === "/index.html") {
   reservaView.listar();
+  reservaView.deletar();
 }
 
 if (window.location.pathname === "/cadastro.html") {
