@@ -78,8 +78,18 @@ export class ReservaView {
         vaga: formData.get("vaga"),
       };
 
-      this.controller.register(data);
-      window.location.href = `/index.html`;
+      const isOccupied = this.controller
+        .list()
+        .find((reserva) => reserva.vaga === data.vaga);
+
+      if (isOccupied) {
+        alert(
+          `Essa vaga já está ocupada pelo carro ${isOccupied.modelo}, do apartamento ${isOccupied.apartamento}, Bloco ${isOccupied.bloco}!`
+        );
+      } else {
+        this.controller.register(data);
+        window.location.href = `/index.html`;
+      }
     });
   }
 
