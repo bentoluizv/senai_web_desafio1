@@ -38,7 +38,7 @@ export class ReservaView {
         "text-center",
         "cursor-pointer"
       );
-
+      const p_0 = document.createElement("p");
       const p_1 = document.createElement("p");
       const p_2 = document.createElement("p");
       const p_3 = document.createElement("p");
@@ -46,7 +46,7 @@ export class ReservaView {
       h3.textContent = `Bloco: ${reserva.bloco} | Ap: ${reserva.apartamento}`;
 
       close.textContent = "X";
-
+      p_0.textContent = `Vaga: ${reserva.vaga}`;
       p_1.textContent = `${reserva.proprietario}`;
       p_2.textContent = `${reserva.placa}`;
       p_3.textContent = `${reserva.modelo} (${reserva.cor})`;
@@ -54,6 +54,7 @@ export class ReservaView {
       div.appendChild(h3);
       div.appendChild(close);
       li.appendChild(div);
+      li.appendChild(p_0);
       li.appendChild(p_1);
       li.appendChild(p_2);
       li.appendChild(p_3);
@@ -74,6 +75,7 @@ export class ReservaView {
         placa: formData.get("veiculo-placa"),
         modelo: formData.get("veiculo-modelo"),
         cor: formData.get("veiculo-cor"),
+        vaga: formData.get("vaga"),
       };
 
       this.controller.register(data);
