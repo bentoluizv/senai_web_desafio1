@@ -12,6 +12,7 @@ export class ReservaController {
       "bloco",
       "modelo",
       "cor",
+      "vaga",
     ];
     const hasAllProperties = properties.every((prop) => prop in data);
     if (!hasAllProperties) throw new Error("Invalid Input Data!");
@@ -22,7 +23,8 @@ export class ReservaController {
       data.apartamento,
       data.bloco,
       data.modelo,
-      data.cor
+      data.cor,
+      data.vaga
     );
 
     this.model.register(reserva);
